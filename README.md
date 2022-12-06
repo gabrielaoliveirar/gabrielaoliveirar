@@ -1,9 +1,9 @@
 ### 👩🏻 Olá, eu sou Gabriela Oliveira
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()  [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](byoliveiraa.98@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gabrielaoliveirar/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/_gabioliveira98/)
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaoliveirar&show_icons=true&theme=tokyonigth"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaoliveirar&show_icons=true&theme=buefy"/>
 <div>
 
 ### 👩🏻‍💻 Sobre mim
