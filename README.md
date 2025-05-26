@@ -1,21 +1,17 @@
-### 👩🏻 Olá, eu sou Gabriela Oliveira
+# 📊 Análise de Dados | Python | SQL  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/gabrielaoliveirar/)
+Profissional formada em **Análise e Desenvolvimento de Sistemas**, com pós-graduação em **Análise de Dados**. Atualmente atuo como **Analista de Suporte Júnior**, enquanto **me especializo em análise de dados**, aprimorando minhas habilidades em manipulação, visualização e modelagem de dados.   
 
-### 👩🏻‍💻 Sobre mim
+## 🔹 Habilidades Técnicas  
+- **Python**: Manipulação de dados, automação e desenvolvimento de scripts.  
+- **Pandas & NumPy**: Processamento e análise eficiente de dados.  
+- **SQL**: Consultas, modelagem e otimização de bancos de dados relacionais.  
+- **Power BI**: Visualização de dados interativa e exploratória. 
 
-Formada em Análise e Desenvolvimento de Sistemas, atuo profissionalmente como analista de suporte júnior.
-Uma oprtunidade que tem sido de extrema importância para o meu desenvolvimento pessoal e profissional.
-Ao longo desse período descobri um novo caminho, a programação. Desde então tenho me dedicado, buscando conhecimentos, estudando diariamente e desenvolvendo projetos pessoais voltados para o desenvolvimento web, me aprofundando cada vez mais, e tem sido incrível essa experiência.
+## 📂 Projetos    
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaoliveirar&show_icons=true&theme=buefy"/>
-<div>
+## 📬 Contato  
+- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/gabrielaoliveirar)  
+- **Email**: [byoliveiraa.98@gmail.com]  
 
-### 💻 Tecnologias
-
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-
-### 📚 Estudando
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()  [![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+🔎 Busco oportunidades para atuar como **Analista de Dados**, focando na **transformação de dados em insights estratégicos** para empresas.  
