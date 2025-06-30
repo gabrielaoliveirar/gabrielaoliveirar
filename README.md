@@ -1,4 +1,4 @@
-# 📊 Análise de Dados | Python | SQL  
+# 📊 Análise de Dados | Python | SQL | Power BI
 
 Profissional formada em **Análise e Desenvolvimento de Sistemas**, com pós-graduação em **Análise de Dados**. Atualmente atuo como **Analista de Suporte Júnior**, enquanto **me especializo em análise de dados**, aprimorando minhas habilidades em manipulação, visualização e modelagem de dados.   
 
