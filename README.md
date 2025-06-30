@@ -8,10 +8,8 @@ Profissional formada em **Análise e Desenvolvimento de Sistemas**, com pós-gra
 - **SQL**: Consultas, modelagem e otimização de bancos de dados relacionais.  
 - **Power BI**: Visualização de dados interativa e exploratória. 
 
-## 📂 Projetos    
-
 ## 📬 Contato  
 - **LinkedIn**: [Seu Perfil](https://linkedin.com/in/gabrielaoliveirar)  
 - **Email**: [byoliveiraa.98@gmail.com]  
 
-🔎 Busco oportunidades para atuar como **Analista de Dados**, focando na **transformação de dados em insights estratégicos** para empresas.  
+🔎 Busco oportunidades para atuar como **Analista de Dados**, focando na **transformação de dados em insights estratégicos** para empresas. 
